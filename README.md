@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ezemartinezna
 - 👀 I’m interested in Swift & Kotlin
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on IOS & Android
+- 🌱 I’m currently learning React Native & Unity
+- 💞️ I’m looking to collaborate on IOS 
+- 🎮 Hope to someday create a VideoGame
 
 <!---
 ezemartinezna/ezemartinezna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
