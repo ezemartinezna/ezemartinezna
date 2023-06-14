@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezemartinezna
 - 👀 I’m interested in Swift & Kotlin
-- 🌱 I’m currently learning React Native & Unity
+- 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on IOS 
 - 🎮 Hope to someday create a VideoGame
 
